@@ -1,4 +1,4 @@
-# January_2019_Infra_Challenge
+# January Code Challenge for the January 2018 Cohort
 Here's the challenge for anyone hoping to join the Infra team for the January to March Cohort at Africa's Talking. 
 
 ## This challenge is due 2000hrs EAT on 13th December 2018
