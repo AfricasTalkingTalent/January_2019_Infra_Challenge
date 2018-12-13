@@ -2,6 +2,9 @@
 ##### Here is the link to the repo created
 [Click Here](https://github.com/Anillab/stationx.254.example)
 
+## Question 3
+##### Here is the link to question 3
+[Questin 3](https://github.com/Anillab/January_2019_Infra_Challenge/blob/25405491527/bash.sh)
 ## Question 4(a)
 * Subnet on Machine B doesn't match the subnet on Machine B.
 ## Question 4(b)
