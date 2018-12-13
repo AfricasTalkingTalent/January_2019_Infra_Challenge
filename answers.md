@@ -1,6 +1,6 @@
 ## Question 1
 ##### Here is the link to the repo created
-[I'm an inline-style link](https://github.com/Anillab/stationx.254.example)
+[Click Here](https://github.com/Anillab/stationx.254.example)
 
 ## Question 4
 a. Subnet on Machine B doesn't match the subnet on Machine B.
