@@ -4,7 +4,7 @@
 
 ## Question 4(a)
 * Subnet on Machine B doesn't match the subnet on Machine B.
-## Question 4(a)
+## Question 4(b)
 * Change the subnet on machine B to 255.255.255.0
 ## Question 5(a)
 * firewall-cmd --permanent --new-zone=publiczone
